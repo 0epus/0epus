@@ -13,10 +13,10 @@
     },
     {
       "type": "video",
-      "title": "Run Cycle \u2014 WIP",
-      "thumb": "images/sample-2.png",
-      "src": "media/run-cycle.mp4",
-      "caption": "24fps MP4 preview of animation test",
+      "title": "Jump",
+      "thumb": "images/jump001card.png",
+      "src": "media/jump001.mov",
+      "caption": "Rough Animation",
       "tags": [
         "animation",
         "study"
