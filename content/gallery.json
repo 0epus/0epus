@@ -6,41 +6,31 @@
       "thumb": "images/image1.png",
       "src": "images/image1.png",
       "caption": "2024",
-      "tags": [
-        "character"
-      ]
+      "tags": ["character"]
     },
-
     {
       "type": "image",
       "title": "To run is to live",
       "thumb": "images/image2.png",
       "src": "images/image2.png",
       "caption": "2024",
-      "tags": [
-        "character"
-      ]
+      "tags": ["character"]
     },
-    
     {
       "type": "video",
       "title": "Jump",
       "thumb": "images/jump001card.png",
       "src": "media/jump001.mov",
       "caption": "Rough Animation",
-      "tags": [
-        "animation",
-        "study"
-      ]
+      "tags": ["animation", "study"]
     },
-
     {
-  "type": "image",
-  "title": "Eye for an eye",
-  "thumb": "images/image6.png",
-  "src": "images/image6.png",
-  "caption": "2024",
-  "tags": ["illustration"]
-}
+      "type": "image",
+      "title": "Eye for an eye",
+      "thumb": "images/image6.png",
+      "src": "images/image6.png",
+      "caption": "2024",
+      "tags": ["illustration"]
+    }
   ]
 }
