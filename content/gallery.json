@@ -2,15 +2,26 @@
   "items": [
     {
       "type": "image",
-      "title": "Olympic Training",
-      "thumb": "images/sample-1.png",
-      "src": "images/sample-1.png",
-      "caption": "Graphite + digital paint study",
+      "title": "Digital",
+      "thumb": "images/image1.png",
+      "src": "images/image1.png",
+      "caption": "2024",
       "tags": [
-        "character",
-        "study"
+        "character"
       ]
     },
+
+{
+      "type": "image",
+      "title": "To run is to live",
+      "thumb": "images/image2.png",
+      "src": "images/image2.png",
+      "caption": "2024",
+      "tags": [
+        "character"
+      ]
+    },
+    
     {
       "type": "video",
       "title": "Jump",
@@ -22,26 +33,7 @@
         "study"
       ]
     },
-    {
-      "type": "youtube",
-      "title": "Demo Reel",
-      "thumb": "images/sample-3.png",
-      "src": "dQw4w9WgXcQ",
-      "caption": "2025 reel highlights",
-      "tags": [
-        "reel"
-      ]
-    },
-    {
-      "type": "vimeo",
-      "title": "Process Breakdown",
-      "thumb": "images/sample-4.png",
-      "src": "76979871",
-      "caption": "Time-lapse",
-      "tags": [
-        "process"
-      ]
-    },
+
     {
   "type": "image",
   "title": "Eye for an eye",
