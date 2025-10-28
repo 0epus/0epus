@@ -41,6 +41,14 @@
       "tags": [
         "process"
       ]
-    }
+    },
+    {
+  "type": "image",
+  "title": "Eye for an eye",
+  "thumb": "images/image6.png",
+  "src": "images/image6.png",
+  "caption": "2024",
+  "tags": ["illustration"]
+}
   ]
 }
